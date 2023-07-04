@@ -1,0 +1,26 @@
+.add_customer {
+    margin: 2px;
+    border: solid black, 1px;
+}
+
+input { 
+    border: 1px solid black;
+    border-radius: 4px;
+    display: flex;
+    padding: 8px;
+    margin: 8px;
+    text-align: center;
+    width: 100%;
+}
+
+.form {
+    width: 100%;
+    color: #adfa1d;
+    display: flex;
+    font-weight: 600;
+    background-color: black;
+    border-radius: 4px;
+    padding: 8px;
+    margin: 8px;
+    justify-content: center;
+}
